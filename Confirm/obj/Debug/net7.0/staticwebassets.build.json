@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "l3oWbCgh/cVrG9sxpDd4eVjm8CweLvLvt8Qed1aZMkI=",
+  "Source": "Confirm",
+  "BasePath": "_content/Confirm",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Confirm\\wwwroot",
+      "Source": "Confirm",
+      "ContentRoot": "C:\\Users\\ilkin\\Desktop\\Confirm\\Confirm\\wwwroot\\",
+      "BasePath": "_content/Confirm",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ilkin\\Desktop\\Confirm\\Confirm\\wwwroot\\css\\style.css",
+      "SourceId": "Confirm",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ilkin\\Desktop\\Confirm\\Confirm\\wwwroot\\",
+      "BasePath": "_content/Confirm",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}
